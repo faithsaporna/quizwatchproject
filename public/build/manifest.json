@@ -1,0 +1,38 @@
+{
+  "_chart-B2TN9dSb.js": {
+    "file": "assets/chart-B2TN9dSb.js",
+    "name": "chart"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-Bhjp3Iuo.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-x-gAyBT7.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "imports": [
+      "_chart-B2TN9dSb.js"
+    ]
+  },
+  "resources/js/dashboard.js": {
+    "file": "assets/dashboard-4gvVOfdZ.js",
+    "name": "dashboard",
+    "src": "resources/js/dashboard.js",
+    "isEntry": true,
+    "imports": [
+      "_chart-B2TN9dSb.js"
+    ]
+  },
+  "resources/js/section_average_chart.js": {
+    "file": "assets/section_average_chart-CtECiPxI.js",
+    "name": "section_average_chart",
+    "src": "resources/js/section_average_chart.js",
+    "isEntry": true,
+    "imports": [
+      "_chart-B2TN9dSb.js"
+    ]
+  }
+}
